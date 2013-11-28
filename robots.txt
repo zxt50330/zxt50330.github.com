@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://zxt50330.github.io/sitemap.xml 
+Sitemap: http://zxt50330.github.com/sitemap.xml 
