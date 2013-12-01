@@ -4,7 +4,7 @@
   <title><![CDATA[学习中的胖大星]]></title>
   <link href="http://zxt50330.github.com/atom.xml" rel="self"/>
   <link href="http://zxt50330.github.com/"/>
-  <updated>2013-11-29T01:42:24+08:00</updated>
+  <updated>2013-12-02T00:06:10+08:00</updated>
   <id>http://zxt50330.github.com/</id>
   <author>
     <name><![CDATA[Henry]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[无题]]></title>
+    <link href="http://zxt50330.github.com/blog/2013/12/01/wu-ti/"/>
+    <updated>2013-12-01T23:35:52+08:00</updated>
+    <id>http://zxt50330.github.com/blog/2013/12/01/wu-ti</id>
+    <content type="html"><![CDATA[<blockquote><p>   该不该说今晚运气很好呢？打算写这文章的时候，很久没联系的一个外国朋友竟然找我聊天了。没被人遗忘呢。。。</p>
+
+<p>写点重点吧！说起来，接触openstack也有1个多月了，了解越多，发现自己的差距越大。对于开源的认识，对于网络知识的加深，存储方面的知识，然后git的了解，应该说通过openstack，让我开拓了眼界，发现了很多很多新的事物。原来最初是打算干嵌入式，研究芯片一类的，但由于工作的原因，接触了openstack，一开始了解，就觉得，哇，这东西好高端的样子，慢慢喜欢上了他！</p>
+
+<p>（未完待续）</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[我的第一篇文章]]></title>
